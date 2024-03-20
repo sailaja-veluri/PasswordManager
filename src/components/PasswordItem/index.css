@@ -1,0 +1,46 @@
+.list-container {
+  border: 1px solid #b6c3ca;
+  border-radius: 3px;
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.initial-Letter {
+  height: 30px;
+  width: 30px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  margin: 15px;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #ffffff;
+}
+.websiteName {
+  font-size: 20px;
+  font-weight: 600;
+}
+.userName {
+  font-size: 20px;
+  font-weight: 600;
+}
+.password {
+  font-size: 20px;
+  font-weight: 600;
+}
+.stars-image {
+  height: 20px;
+  width: 100px;
+}
+.delete-button {
+  background-color: none;
+  border: none;
+}
+.delete-img {
+  height: 20px;
+  width: 20px;
+}
